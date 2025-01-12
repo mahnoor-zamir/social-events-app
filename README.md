@@ -3,10 +3,6 @@
 > This is a Full Stack Application using `React`, `Node.js`, `Express` & `firebase DB`. The App is called `React Events` and is a simple website where developers can check events. And the app allows you to add new events, edit existing events, and delete events.
 
 
-## Live Link
-
-- [Live Link](https://main--my-react-events.netlify.app/events)
-
 ## Built With
 
 - React
