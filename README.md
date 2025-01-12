@@ -46,21 +46,5 @@
 - To start the dev server run `npm start` for the `backend` side and `npm run dev` for the frontend to start the app. You can work in your favorite Code Editor.
 
 
-👤 **Mihreteab Misganaw Aride**
-
-- GitHub: [@Mre55](https://github.com/Mre55)
-- Twitter: [@MreMisganaw](https://twitter.com/MreMisganaw)
-- LinkedIn: [Mihreteab Aride](https://www.linkedin.com/in/mihreteab-aride-86249812b/)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-- Feel free to check the [issues page](https://github.com/Mre55/Mihreteab-react-redux/issues).
-
-
-## 👏 Show your support
-
-Give a ⭐️ if you like this project!
 
 
